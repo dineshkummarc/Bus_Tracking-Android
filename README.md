@@ -20,7 +20,6 @@ Student Bus Tracker is one of the best GPS tracking application for students and
 - Easy to reskin
 - Complete documentation
 
-
 ### For Schools
 
 Keep track of your school buses in real-time with a comprehensive transport management solution. With features like speed alerts, geofencing of vehicles, and security notifications, you can secure the safety of your students outside the school as well.
